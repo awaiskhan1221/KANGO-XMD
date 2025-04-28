@@ -21,23 +21,23 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿' 
+global.botname = process.env.BOT_NAME || '𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '923190969425' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || ' 𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿" 
+global.packname = process.env.STICKER_PACK_NAME || "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
@@ -58,17 +58,17 @@ global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> 𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
-  done: '*Done*', 
-  success: '> © 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿', 
-  owner: `*You don't have permission to use this command!*`, 
-  group: '*This feature becomes available when you use it in a group!*', 
-  admin: '*You’ll unlock this feature with me as an admin!*', 
-  notadmin: '*This feature will work once you become an admin. A way of ensuring order!*' 
+  done: '𝗗𝗢𝗡𝟯 𝗕𝗔𝗕𝗬 𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟  ', 
+  success: '> 𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟', 
+  owner: `𝗧𝗨𝗝𝗛𝗘 𝗞𝟯𝗦 𝗡𝟯 𝗕𝗢𝗟𝗔 𝗬𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗨𝗦𝗘 𝗞𝗥𝗡𝗘 𝗞𝗘 𝗕𝗖!*`, 
+  group: '*𝗬𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗦𝗘𝟰𝗙 𝗚𝗖 𝗠𝗘 𝗪𝗢𝗥𝗞 𝗞𝗥𝗘𝗚𝗔 𝗕𝗛𝗔𝗜𝗜𝗬𝗔𝗔𝗔!*', 
+  admin: '*𝗔𝗕𝗛𝗘𝟯 𝗣𝗘𝗛𝗟𝗘 𝗔𝗗𝗠𝟭𝗡 𝗣𝗛𝗘𝗡𝗡𝗞𝗞 𝗠𝗘𝗥𝟭 𝗞𝗢!*', 
+  notadmin: '*𝗔𝗕𝗛𝗘𝗘 𝗕𝗖 𝗬𝗘 𝗦𝗘𝗥𝗙 𝗔𝗗𝗠𝗜𝗡 𝗞𝗘𝗟𝗬𝗛 𝗪𝗢𝗥𝗞 𝗞𝗥𝗧𝗔 𝗛𝗘!*' 
 }
 
 //--------------[ DEVELOPER SETTINGS ]---------------//
