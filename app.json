@@ -1,10 +1,10 @@
 {
-  "name": "KANGO-XMD",
+  "name": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟",
   "version": "2.4.0",
-  "description": "KANGO-XMD, the best WhatsApp Bot in Ghana",
+  "description": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟, the best WhatsApp Bot in Ghana",
   "logo": "https://i.imgur.com/GVW7aoD.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/official_kango/KANGO-XMD-V2.git",
+  "repository": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
@@ -16,28 +16,28 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
-      "value": "KANGO-XMD",
+      "description": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟",
+      "value": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "description": "923161143712",
+      "value": "923161143712",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "owner name",
-      "value": "",
+      "description": "𝚳Ｉ𝙺 𝙴 Y",
+      "value": "𝚳Ｉ𝙺 𝙴 Y",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "KANGO",
+      "value": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "KANGO",
+      "value": "𝗙𝗞 𝗜𝟱𝗥𝟰𝗟 𝗕𝗬  𝗡𝟭𝗟",
       "required": false
     },
     "HEROKU_API_KEY": {
